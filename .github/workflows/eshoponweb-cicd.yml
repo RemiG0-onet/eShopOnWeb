@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: cb7e9f5c-09ec-491e-8597-e11b0cf64fb3
-  WEBAPP-NAME: WEBAPPREMIG2026
+  WEBAPP-NAME: remiwebapp
 
 jobs:
   #Build, test and publish .net web project in repository
